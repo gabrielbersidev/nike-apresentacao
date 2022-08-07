@@ -9,4 +9,4 @@ Tem finalidade de testar meus conhecimentos em responsividade, conhecimentos ger
 - ir ao cart do site oficial
 
 ## Clique aqui para conferir novas mudanças:
-https://shhhh, eembreve .netlify.app/
+https://shhhhembreve .netlify.app/
