@@ -36,6 +36,11 @@ body {
   font-size: 18px
 }
 
+.cabecalho-menu-item:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
 .conteudo {
   margin-bottom: 48px;
   border-top: 0.4px solid #FFF2E7;
@@ -83,10 +88,13 @@ body {
 
 .conteudo-principal-escrito-botao:hover {
   background-color: rgba(236, 214, 196, 0.53);
+  cursor: pointer;
 }
 
-.conteudo-principal-imagem {
+
+.container { 
   height: 430px;
+  cursor: pointer;
 }
 
 .conteudo-secundario {
@@ -122,8 +130,6 @@ body {
 .rodape-imagem {
   display: block;
   margin: 0 auto;
-  max-width:200px;
-  max-height:150px;
-  width: auto;
-  height: auto;
+  color: #e6c9b2;   
+  font-family: 'Righteous', cursive;
 }
